@@ -1,0 +1,42 @@
+[{
+  "_id": 1,
+  "Nombre": "nicol",
+  "Nacionalidad": "colombiana",
+  "Edad": 18,
+  "Equipo Actual": "Santa Fe"
+},
+{
+  "_id": 2,
+  "Nombre": "ximena",
+  "Nacionalidad": "colombiana",
+  "Edad": 25,
+  "Equipo Actual": "DIM"
+},
+{
+  "_id": 3,
+  "Nombre": "stella",
+  "Nacionalidad": "colombiana",
+  "Edad": 22,
+  "Equipo Actual": "Atletico Nacional"
+},
+{
+  "_id": 4,
+  "Nombre": "johanna",
+  "Nacionalidad": "colombiana",
+  "Edad": 20,
+  "Equipo Actual": "Once Caldas"
+},
+{
+  "_id": 5,
+  "Nombre": "Monica",
+  "Nacionalidad": "colombiana",
+  "Edad": 19,
+  "Equipo Actual": "America"
+},
+{
+  "_id": 6,
+  "Nombre": "Yanni",
+  "Nacionalidad": "colombiana",
+  "Edad": 19,
+  "Equipo Actual": "Millonarios"
+}]

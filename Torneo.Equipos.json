@@ -1,0 +1,36 @@
+[{
+  "_id": 1,
+  "Nombre del Equipo": "Santa Fe",
+  "País": "Colombia",
+  "Entrenador": "Diego"
+},
+{
+  "_id": 2,
+  "Nombre del Equipo": "Atletico Nacional",
+  "País": "Colombia",
+  "Entrenador": "Jean"
+},
+{
+  "_id": 3,
+  "Nombre del Equipo": "America",
+  "País": "Colombia",
+  "Entrenador": "Luis"
+},
+{
+  "_id": 4,
+  "Nombre del Equipo": "Millonarios",
+  "Pais": "Colombia",
+  "Entrenador": "Edgar"
+},
+{
+  "_id": 5,
+  "Nombre del Equipo": "DIM",
+  "Pais": "Colombia",
+  "Entrenador": "Paul"
+},
+{
+  "_id": 6,
+  "Nombre del Equipo": "Once Caldas",
+  "Pais": "Colombia",
+  "Entrenador": "Alejandro"
+}]

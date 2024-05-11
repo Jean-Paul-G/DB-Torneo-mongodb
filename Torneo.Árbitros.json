@@ -1,0 +1,30 @@
+[{
+  "_id": 1,
+  "Nombre": "Juan",
+  "Nacionalidad": "Colombia",
+  "Partidos Arbitrados": 20
+},
+{
+  "_id": 2,
+  "Nombre": "Pablo",
+  "Nacionalidad": "Colombia",
+  "Partidos Arbitrados": 30
+},
+{
+  "_id": 3,
+  "Nombre": "Pedro",
+  "Nacionalidad": "Colombia",
+  "Partidos Arbitrados": 23
+},
+{
+  "_id": 4,
+  "Nombre": "Miguel",
+  "Nacionalidad": "Colombia",
+  "Partidos Arbitrados": 27
+},
+{
+  "_id": 5,
+  "Nombre": "Antonio",
+  "Nacionalidad": "Colombia",
+  "Partidos Arbitrados": 26
+}]

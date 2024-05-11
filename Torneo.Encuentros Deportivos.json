@@ -1,0 +1,21 @@
+[{
+  "_id": 1,
+  "Fecha y Hora": "11/05/2024, 15 horas",
+  "Estadio": "Atanasio Girardot",
+  "Equipo Local": "Atletico Nacional",
+  "Equipo Visitante": "DIM"
+},
+{
+  "_id": 2,
+  "Fecha y Hora": "11/05/2024, 19 horas",
+  "Estadio": "Nemesio Camacho El Campín",
+  "Equipo Local": "Santa Fe",
+  "Equipo Visitante": "Millonarios"
+},
+{
+  "_id": 3,
+  "Fecha y Hora": "11/06/2024, 15 horas",
+  "Estadio": "Palogrande",
+  "Equipo Local": "America",
+  "Equipo Visitante": "Once Caldas"
+}]

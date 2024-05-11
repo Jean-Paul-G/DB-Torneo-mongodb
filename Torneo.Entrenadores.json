@@ -1,0 +1,36 @@
+[{
+  "_id": 1,
+  "Nombre": "Diego",
+  "Nacionalidad": "Colombia",
+  "Experiencia": "5 años"
+},
+{
+  "_id": 2,
+  "Nombre": "Jean",
+  "Nacionalidad": "Colombia",
+  "Experiencia": "4 años"
+},
+{
+  "_id": 3,
+  "Nombre": "Luis",
+  "Nacionalidad": "Colombia",
+  "Experiencia": "5años"
+},
+{
+  "_id": 4,
+  "Nombre": "Edgar",
+  "Nacionalidad": "Colombia",
+  "Experiencia": "6 años"
+},
+{
+  "_id": 5,
+  "Nombre": "Paul",
+  "Nacionalidad": "Colombia",
+  "Experiencia": "6 años"
+},
+{
+  "_id": 6,
+  "Nombre": "Alejandro",
+  "Nacionalidad": "Colombia",
+  "Experiencia": "5 años"
+}]
