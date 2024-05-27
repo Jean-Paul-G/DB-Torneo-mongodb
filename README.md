@@ -18,4 +18,3 @@ Componentes del Replica Set:
 Primary: Nodo principal que recibe todas las operaciones de escritura.
 Secondary: Nodos secundarios que replican los datos del nodo primario y pueden servir operaciones de lectura.
 Arbiter (opcional): Nodo que participa en la elección de un nuevo nodo primario en caso de fallos, sin mantener una copia de los datos.
-
