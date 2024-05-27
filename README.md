@@ -12,6 +12,7 @@ Mantenimiento Sin Interrupciones: Se deben poder realizar tareas de mantenimient
 Monitoreo y Alertas: Debe haber un sistema de monitoreo que alerte automáticamente sobre cualquier problema de disponibilidad o rendimiento.
 
 Estrategia de Replicación y Comandos
+
 2.	Estrategia de Replicación
 2.1.	Estrategia de Replicación: Para cumplir con los requisitos de redundancia y disponibilidad, se utilizará una configuración de replicación en MongoDB llamada Replica Set. Un Replica Set es un grupo de procesos de mongod que mantienen el mismo conjunto de datos. Los Replica Sets proporcionan redundancia y alta disponibilidad.
 Componentes del Replica Set:
